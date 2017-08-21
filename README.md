@@ -1,4 +1,4 @@
-#Advanced Analytics with R and Tableau
+# Advanced Analytics with R and Tableau
 This is the code repository for [Advanced Analytics with R and Tableau](https://www.packtpub.com/big-data-and-business-intelligence/advanced-analytics-r-and-tableau?utm_source=github&utm_medium=repository&utm_campaign=9781786460110), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
 Tableau and R offer accessible analytics by allowing a combination of easy-to-use data visualization along with industry-standard, robust statistical computation.
@@ -7,14 +7,14 @@ Moving from data visualization into deeper, more advanced analytics? This book w
 
 By the end of this book, you will get to grips with advanced calculations in R and Tableau for analytics and prediction with the help of use cases and hands-on examples.
 
-##Instructions and Navigation
+## Instructions and Navigation
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
 
 
 
 The code will look like the following:
 ```
-A block of code is set as follows:
+
 df = data.frame(
 Year=c(2013, 2013, 2013),
 Country=c("Arab World","Carribean States", "Central Europe"),
@@ -26,12 +26,12 @@ You'll need the following software:
 • RStudio for Windows
 • Plugins for RStudio
 
-##Related Products
+## Related Products
 * [Big Data Analytics with R and Hadoop](https://www.packtpub.com/big-data-and-business-intelligence/big-data-analytics-r-and-hadoop?utm_source=github&utm_medium=repository&utm_campaign=9781782163282)
 
 * [Tableau: Creating Interactive Data Visualizations](https://www.packtpub.com/big-data-and-business-intelligence/tableau-creating-interactive-data-visualizations?utm_source=github&utm_medium=repository&utm_campaign=9781787124196)
 
 * [Tableau 10 Business Intelligence Solutions - Volume 2 [Video]](https://www.packtpub.com/big-data-and-business-intelligence/tableau-10-business-intelligence-solutions-volume-2-video?utm_source=github&utm_medium=repository&utm_campaign=9781788296625)
 
-###Suggestions and Feedback
+### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
